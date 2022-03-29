@@ -1,0 +1,163 @@
+﻿css code
+#container
+{
+	width: 90%;
+	margin: 10px auto;
+	background-color: "#006699";
+	color: #333;
+	line-height: 130%;
+}
+
+#top
+{
+	padding: 0;
+	background-color: steelblue;
+	height:170px;
+	overflow: auto;
+	line-height: 300%;
+	color:white;
+border: 2px solid #008AB8;
+  border-radius: 10px;
+}
+#logo_place
+{
+	float: left;
+	width: 170px;
+	height:170px;
+	margin: 0;
+	padding: 0;
+	background-color: steelblue;
+	overflow: auto;
+border: 2px solid #191970;
+  border-radius: 10px;
+	
+}
+
+
+#leftnav
+{
+	float: left;
+	width: 148px;
+	position: relative;
+	margin: 1;
+	clear: both;
+	padding: 1em;
+	background-color: steelblue;
+border: 2px solid #191970;
+  border-radius: 10px;
+	display: inline;
+	color:white
+}
+
+#sisukord {
+  background-color:steelblue;
+ 
+  margin:1px;
+  width: 150px;
+  border: 2px solid #008AB8;
+  border-radius: 10px;
+  float:left;
+  
+}
+
+span {
+  color:white
+}
+
+
+#leftnav li
+{
+	margin-left: -40px; 
+	line-height: 200%; 
+	list-style-type: none; 
+}
+
+
+
+#content
+{	margin-left: 170px;
+	padding: 1em;
+	max-width: 70em;
+}
+
+#top h2 
+{ 	color:white; }
+
+#leftnav p 
+{ 	margin: 0 0 1em 0; }
+#content h2 
+{ 	margin: 0 0 .5em 0; }
+/* css layout */
+body 
+{ 	color: black; 
+	background: #CD853F; 
+	font-family: helvetica, verdana, sans serif; 
+	font-size:12px; } 
+
+
+
+
+a:link 
+{ 	color: gold;
+	font-weight: normal;
+	font-size: 14px;
+	text-indent: 5px;
+	font-family: verdana, helvetica, arial, "sans serif";
+	text-align: left;}
+a:active 
+{ 	color: khaki;
+	font-weight: normal;
+	font-size: 14px;
+	text-indent: 5px;
+	font-family: verdana, helvetica, arial, "sans serif";
+	text-align: left;}
+a:visited 
+{ 	color: orangered;
+	font-weight: normal;
+	font-size: 14px;
+	text-indent: 5px;
+	font-family: verdana, helvetica, arial, "sans serif";
+	text-align: left;}
+a:hover 
+{ 	color: khaki;
+	font-weight: normal;
+	font-size: 130%;
+	text-indent: 5px;
+	font-family: verdana, helvetica, arial, "sans serif";
+	text-align: left;}
+p.margins 
+{ 	margin-left: 20%; 
+	margin-right: 20%; 
+	font-family: arial, helvetica, verdana, sans serif;
+	font-size: 12px} 
+
+h1
+{
+	font-weight: normal;
+	font-Size: 36px;
+	color: #ffffff;
+	font-family: arial, helvetica, verdana, sans serif;
+	margin: 15px;
+	text-align: center;
+}
+
+h2
+{	font-weight: bold;
+	font-size: 16px;
+	margin-left: 20px;
+	color: #00008B;  
+	margin-right: 12px;
+	font-family:"arial","helvetica", "verdana","sans serif";
+}
+
+
+ul
+{
+	margin-left: 40px;
+}
+
+li
+{
+	margin-left: 40px; 
+	line-height: 150%;
+}

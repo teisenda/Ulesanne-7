@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title>Eestimaa tuur - abiks</title>
+<style type="text/css">
+
+h1 {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 36px;
+	color: #008000;
+}
+h2 {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #228B22;
+}
+text {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Reisiplaan</h1>
+<p><h2>Kuup�evad ja kohad</h2></p>
+<p>Infot hotellide kohta leiate Internetist</p>
+<p>Kasutage vasakul olevaid linke t�psema teabe saamiseks</p>
+<p><H2>Kohapeal k�lastage infopunkti</H2></p>
+</body>
+</html>
